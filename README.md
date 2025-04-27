@@ -2,6 +2,10 @@
 
 This project is an tool that uses OpenAI’s GPT API to allows users to generate customized material and automatically grade, and analyze written documents for feedback. It is built using Python and Flask, making it easy to run locally and extend further for web or classroom use.
 
+The motivation behind doing this project was to make it easier for educators to create material and grade students work. This AI tool can generate exams and quizzes for any topic and provide solutions for the questions as well as score each test/quiz. Please see below to understand how this AI system works, as well as the attached screenshots to see working examples. Furthuermore, please see the "Improvements" section for ideas on how this tool can be modified per user interest. Hopefully, you find this to be as beneficial as I have. 
+
+Thank You and Enjoy!
+
 ---
 
 ## Features
