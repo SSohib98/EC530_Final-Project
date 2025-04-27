@@ -1,19 +1,4 @@
-# EC530_Final-Project
-This project contains 3 componenets that use AI. 
-I. Material Generator
-II. Grading
-III. Document Analyzer
-
-I. Material Generator
-Please use the following files:
-- app.py
-- llm_utils.py
-- test.py
-- grading_utils.py
-
-
-
-# AI-Powered Material Generator & Document Analyzer
+# EC530_Final Project: AI-Powered Material Generator & Document Analyzer
 
 This project is an tool that uses OpenAI’s GPT API to allows users to generate customized material and automatically grade, and analyze written documents for feedback. It is built using Python and Flask, making it easy to run locally and extend further for web or classroom use.
 
@@ -23,7 +8,6 @@ This project is an tool that uses OpenAI’s GPT API to allows users to generate
 
 - Generate multiple-choice quizzes on any topic and difficulty level  
 - Automatically grade student answers with accuracy  
-- Analyze student essays for grammar, clarity, and coherence (optional extension)  
 - Simple command-line interface to interact with the system  
 - RESTful API backend for easy integration with other applications  
 
@@ -77,7 +61,6 @@ When you run the system:
 | `test.py`          | Command-line interface for generating quizzes and submitting answers. |
 | `llm_utils.py`     | Logic for calling the OpenAI API and generating quiz content using prompts. |
 | `grading_utils.py` | Grades student quiz responses based on answer keys. Returns scores and correct answers. |
-| `feedback_utils.py`| (Optional) Add logic here to analyze essays for grammar, clarity, etc. |
 | `requirements.txt` | Contains all the systems neccessary to run this project. |
 
 ---
