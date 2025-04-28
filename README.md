@@ -58,7 +58,7 @@ When you run the system:
 
 ---
 
-## 📂 File Descriptions
+## File Descriptions
 
 | File               | Purpose |
 |--------------------|---------|
@@ -70,7 +70,7 @@ When you run the system:
 
 ---
 
-Improvement Ideas
+## Improvement Ideas 
 - Generate more than 5 questions.
 - Modify the material from multiple choice to short answer responses.
 - Output the exam/quiz as a word file so the instructor can physically print out the exam/quiz and use it in class.
